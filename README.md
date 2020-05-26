@@ -1,6 +1,6 @@
 # Temperature converter
 
-## Just a simple terperature converter (celsius, fahrenheit, kelvin)
+Just a simple terperature converter (celsius, fahrenheit, kelvin)
 
 ## Result:
 
